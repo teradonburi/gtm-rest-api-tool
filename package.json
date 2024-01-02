@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "dev": "node index.mjs"
+  },
+  "dependencies": {
+    "@googleapis/tagmanager": "^5.0.0",
+    "dotenv": "^16.3.1",
+    "googleapis": "^129.0.0",
+    "open": "^10.0.2"
+  }
+}
